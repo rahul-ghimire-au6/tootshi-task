@@ -1,0 +1,42 @@
+.infoBarContainer{
+    width: 100%;
+    height: 10vh;
+    background-color: white;
+    box-shadow: 0px 0px 5px 5px rgb(0,0,0,0.1);
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+}
+.groupOneDiv{
+    display: flex;
+}
+.dropDownDiv1{
+    padding-top: 2.5vh;
+    margin-left: 5.5vw;
+    width: 7vw;
+}
+.dropDownDiv2{
+    padding-top: 2.5vh;
+    padding-left: 1vw;
+    width: 7vw;
+}
+.resetDiv{
+    padding-top: 3vh;
+    padding-left: 0.5vw;
+}
+.resetIcon{
+    color: #2596be;
+    cursor: pointer;
+}
+.resetSpan{
+    color: #2596be;
+    font-weight: 700;
+    cursor: pointer;
+}
+.groupTwoDiv{
+    margin-top: 2.5vh;
+    margin-right: 0.5vw;
+}
+.addToCartDiv{
+    margin-left: 1em;
+}

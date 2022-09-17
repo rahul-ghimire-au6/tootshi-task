@@ -1,0 +1,42 @@
+.topBarContainer{
+    padding-bottom: 5em;
+}
+.tableContainer{
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.imgClass{
+    width: 5em;
+    height: 8em;
+}
+.inStockIcon{
+    color: green;
+}
+.inStockText{
+    margin-left: 0.5em;
+    color: green;
+}
+.outofStockIcon{
+    color: red;
+}
+.outofStockText{
+    margin-left: 0.5em;
+    color: red;
+}
+.buyRootDiv{
+    display: flex;
+}
+.buyInputNumber input{
+    width: 2em;
+}
+.buyIconDiv{
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 0.5em;
+    width: 4em;
+    margin-right: 0.5em;
+}
+.buyIcon{
+    color: white;
+    margin-left: 1em;
+}

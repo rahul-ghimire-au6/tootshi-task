@@ -1,0 +1,204 @@
+{
+    "tshirt": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/713n+TxyfCL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Polo Shirt",
+            "color": "Dark Blue",
+            "stock": 20,
+            "price": 375,
+            "size":"m"
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71TU3px5u8L._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Trendyol",
+            "color": "Grey",
+            "stock": 10,
+            "price": 599,
+            "size":"l"
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/619SqQW1NYL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "RodZen",
+            "color": "Blue",
+            "stock": 30,
+            "price": 310,
+            "size":"xl"
+
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71WESEQ42YL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Van Heusen",
+            "color": "Red",
+            "stock": 5,
+            "price": 999,
+            "size":"xxl"
+        },
+        {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41EA9qxRnpL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Jockey",
+            "color": "Blue",
+            "stock": 15,
+            "price": 499,
+            "size":"xxxl"
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41EA9qxRnpL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Jockey",
+            "color": "Blue",
+            "stock": 15,
+            "price": 499,
+            "size":"m"
+        },
+        {
+            "id": 7,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/91XabQr+cRL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Max",
+            "color": "Green",
+            "stock": 15,
+            "price": 389,
+            "size":"l"
+        },
+        {
+            "id": 8,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61bDoqhvEPL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Urbano Fashion",
+            "color": "Greenish Blue",
+            "stock": 15,
+            "price": 399,
+            "size":"xl"
+        },
+        {
+            "id": 9,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/818niea1luL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Van Heusen",
+            "color": "white",
+            "stock": 15,
+            "price": 499,
+            "size":"xxl"
+        },
+        {
+            "id": 10,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61p21cELnEL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "London Hills",
+            "color": "Grey",
+            "stock": 15,
+            "price": 319,
+            "size":"xxxl"
+        },
+        {
+            "id": 11,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41EA9qxRnpL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Jockey",
+            "color": "Blue",
+            "stock": 15,
+            "price": 499,
+            "size":"m"
+        },
+        {
+            "id": 12,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61choxa9ALL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "JUGULAR",
+            "color": "Black",
+            "stock": 15,
+            "price": 320,
+            "size":"l"
+        },
+        {
+            "id": 13,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71LkXNMDGNL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "U.S. POLO ASSN",
+            "color": "white",
+            "stock": 15,
+            "price": 499,
+            "size":"xl"
+        },
+        {
+            "id": 14,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/81DM22NKVuL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Allen Solly",
+            "color": "Yellokw",
+            "stock": 15,
+            "price": 499,
+            "size":"xxl"
+        },
+        {
+            "id": 15,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41EA9qxRnpL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Jockey",
+            "color": "Blue",
+            "stock": 15,
+            "price": 699,
+            "size":"xxxl"
+        },
+        {
+            "id": 16,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61kWHspTLbL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "London Hills",
+            "color": "Black",
+            "stock": 15,
+            "price": 499,
+            "size":"m"
+        },
+        {
+            "id": 17,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41EA9qxRnpL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Jockey",
+            "color": "Blue",
+            "stock": 15,
+            "price": 269,
+            "size":"l"
+        },
+        {
+            "id": 18,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61hh8wS16wL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "BLIVE",
+            "color": "Red",
+            "stock": 15,
+            "price": 249,
+            "size":"xl"
+        },
+        {
+            "id": 19,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41EA9qxRnpL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Jockey",
+            "color": "Blue",
+            "stock": 15,
+            "price": 499,
+            "size":"xxl"
+        },
+        {
+            "id": 20,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71+svP6RiCL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "House & Shields",
+            "color": "Blue",
+            "stock": 15,
+            "price": 499,
+            "size":"xxxl"
+        },
+        {
+            "id": 21,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71ytGWkRfML._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "Prettify",
+            "color": "Blue",
+            "stock": 15,
+            "price": 499,
+            "size":"m"
+        },
+        {
+            "id": 22,
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61fxQ1Gh5JL._AC_UL480_FMwebp_QL65_.jpg",
+            "name": "LEOTUDE",
+            "color": "Yellow",
+            "stock": 15,
+            "price": 499,
+            "size":"l"
+        }
+    ],
+    "hoodie": []
+}
